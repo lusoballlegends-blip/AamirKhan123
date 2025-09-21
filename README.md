@@ -23,7 +23,7 @@
 ---
 
 ## 📫 Contact Me  
-- Email: your.email@example.com  
+- Email: lusoballlegends@gmail.com 
 - LinkedIn: [linkedin.com/in/aamirkhan-physics](https://www.linkedin.com/in/aamirkhan-physics)  
 - GitHub: [github.com/AamirKhan123](https://github.com/AamirKhan123)  
 
